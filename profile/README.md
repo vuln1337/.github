@@ -12,6 +12,6 @@
 -->
 
 <p align="center">
-<a href="https://github.com/vuln1337" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=noobwarre&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
-<a href="https://github.com/vuln1337" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobwarre&theme=dark&count_private=true&show_icons=true&hide_border=true"/></a>
+<a href="https://github.com/vuln1337" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=vuln1337&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
+<a href="https://github.com/vuln1337" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuln1337&theme=dark&count_private=true&show_icons=true&hide_border=true"/></a>
 </p>
